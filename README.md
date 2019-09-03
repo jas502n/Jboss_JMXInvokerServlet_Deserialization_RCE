@@ -1,5 +1,7 @@
 # Jboss_JMXInvokerServlet_Deserialization_RCE
 
+![](./Jboss_JMXInvokerServlet_Deserialization_RCE.jpg)
+
 ## 使用Burp Suite利用Java反序列化漏洞
 
 
