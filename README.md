@@ -44,6 +44,7 @@ response返回 Java serialization data, version 5
 
 将/invoker/JMXInvokerServlet ,POST流量发送到DS插件里面
 右击,点击 Send request to DS-Manual testing
+![](./DS-Manual_testing.jpg)
 
 ### 设置序列化点
 选择存在序列化的位置，由于JBoss在/invoker/JMXInvokerServlet请求中读取了用户传入的序列化对象.
