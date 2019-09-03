@@ -1,0 +1,2 @@
+# Jboss_JMXInvokerServlet_Deserialization_RCE
+Jboss_JMXInvokerServlet_Deserialization_RCE
