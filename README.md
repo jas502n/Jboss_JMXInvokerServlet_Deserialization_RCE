@@ -69,6 +69,7 @@ Upgrade-Insecure-Requests: 1
 ```
 
 ### 扫描$aaaa$是否存在序列化漏洞
+![](./VULNERABLE.jpg)
 点击 Attack
 
 提示
