@@ -121,6 +121,7 @@ Apache Commons Collections 3 Alternate payload (Sleep): Potentially VULNERABLE!!
 点击 Attack
 
 进入docker服务器，查看/tmp/jas502n文件是否创建成功
+![](./jas502n.jpg)
 
 ```
 root@kali:~/vulhub/jboss/JMXInvokerServlet-deserialization# docker ps -a
